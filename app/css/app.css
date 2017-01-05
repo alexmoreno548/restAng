@@ -1,0 +1,39 @@
+#logo
+{
+	font-size: 4em;
+	color: white;
+	margin-top: 0.25em;
+}
+
+#white
+{
+	color: white;
+}
+
+.alinVertical
+{s
+	display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.header
+{
+	background: #3099DA;
+	height: 7em;	
+	margin-bottom: 2em;
+    border-radius: 0px;
+}
+
+.img
+{
+	width: 25em;
+    height: 14em;
+}
+
+.cardCustom
+{
+	width: 25em;
+    height: 27em;
+}
